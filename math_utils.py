@@ -7,8 +7,8 @@ def find_max_number(num1, num2, num3):
     else
      if(num2>num3):
         return num2
-num1 = 1
-num2 = 3
-num3 = -1
+num1 =
+num2 = 
+num3 = 
 max_num = find_max_number(num1, num2, num3)
 print("The maximum number is:", max_num)
