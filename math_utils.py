@@ -1,9 +1,9 @@
 def find_max_number(num1, num2, num3):
-    if (num1>num2) :
+         if (num1>num2) :
       if (num1>num3):
         return num1
-      else
+      else:
         return num3
-    else
+   else :
      if(num2>num3):
         return num2
