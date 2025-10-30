@@ -1,4 +1,3 @@
-tzvisender
 
 def find_max_number(n1, n2, n3):
     if n1 > n2 :
